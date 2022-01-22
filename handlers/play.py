@@ -20,8 +20,6 @@ import requests
 
 import aiohttp
 
-import yt_dlp
-
 from youtube_search import YoutubeSearch
 
 import converter
