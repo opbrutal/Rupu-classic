@@ -403,7 +403,7 @@ async def play(_, message: Message):
                         ),
                     ],[
                         InlineKeyboardButton(
-                            text="✌️ Gʀᴏᴜᴘ", url=f"https://t.me/Love_live_laughk"
+                            text="✌️ Gʀᴏᴜᴘ", url=f"https://t.me/amazingnights"
                         ),
                     ]
                 ]
@@ -430,7 +430,7 @@ async def play(_, message: Message):
                         ),
                     ],[
                         InlineKeyboardButton(
-                            text="✌️ Gʀᴏᴜᴘ", url=f"https://t.me/Love_live_laughk"
+                            text="✌️ Gʀᴏᴜᴘ", url=f"https://t.me/amazingnights"
                         ),
                     ]
                 ]
@@ -527,7 +527,7 @@ async def play(_, message: Message):
                         ),
                     ],[
                         InlineKeyboardButton(
-                            text="✌️ Gʀᴏᴜᴘ", url=f"https://t.me/Love_live_laughk"
+                            text="✌️ Gʀᴏᴜᴘ", url=f"https://t.me/amazingnights"
                         ),
                     ]
                 ]
