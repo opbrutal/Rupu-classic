@@ -1,4 +1,4 @@
-git+https://github.com/opbrutal/yt-down@master
+git+https://github.com/opbrutal/yt-dowld@master
 git+https://github.com/pyrogram/pyrogram@master
 TgCrypto
 py-tgcalls
