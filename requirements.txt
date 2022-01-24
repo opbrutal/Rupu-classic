@@ -1,4 +1,4 @@
-git+https://github.com/opbrutal/yt-dl@master
+git+https://github.com/opbrutal/youtube@master
 git+https://github.com/pyrogram/pyrogram@master
 TgCrypto
 py-tgcalls
