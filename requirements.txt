@@ -1,4 +1,4 @@
-git+https://github.com/ITZ-ZAID/yt-download@master
+git+https://github.com/opbrutal/yt-down@master
 git+https://github.com/pyrogram/pyrogram@master
 TgCrypto
 py-tgcalls
