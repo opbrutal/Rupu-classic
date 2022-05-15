@@ -1,4 +1,4 @@
-git+https://github.com/pyrogram/pyrogram@master
+git+https://github.com/opbrutal/pyrogram@master
 git+https://github.com/pyrogram/tgcrypto@master
 py-tgcalls==0.8.4
 git+https://github.com/ITZ-ZAID/yt-download@master
