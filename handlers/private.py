@@ -28,7 +28,7 @@ Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ : [B•4•Brutal](https://t.me/b_4_brutal_official
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "Aᴅᴅ ᴍʏ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴅᴀʀʟɪɴɢ🤭", url=f"https://t.me/itzrupu_vcbot?startgroup=true"
+                        "Aᴅᴅ ᴍʏ ʙᴏᴛ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴅᴀʀʟɪɴɢ🤭", url=f"https://t.me/Brutu_420_Music_Robot?startgroup=true"
                     )]
             ]
         ),
