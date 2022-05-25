@@ -12,19 +12,19 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hᴇʏ ɪᴛs {bn}** \n
 **I ᴀᴍ ʟᴀᴢʏ Aʙᴏᴜᴛ ᴛʏᴘɪɴɢ sᴏᴍᴇᴛʜɪɴɢ ɴᴇᴡ..ɪᴛᴢ ᴀ ʙᴏᴛ ᴍᴀᴅᴇ ғᴏʀ ᴘʟᴀʏ ᴍᴜsɪᴄ ɪɴ Vᴄ.😈❣️
-Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ : [𝚂•4•𝚂𝚑𝚒𝚟](https://t.me/shivamdemon)**.
+Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ : [B•4•Brutal](https://t.me/b_4_brutal_official)**.
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "💞 ᴏᴡɴᴇʀ ", url="https://t.me/ITZ_RUPU")
+                        "💞 ᴏᴡɴᴇʀ ", url="https://t.me/b_4_brutal_official")
                   ],[
                     InlineKeyboardButton(
-                        "🔥Aɴʏ Pʀᴏʙʟᴇᴍ ", url="https://t.me/shivamdemon"
+                        "🔥Aɴʏ Pʀᴏʙʟᴇᴍ ", url="https://t.me/b_4_brutu_rajput"
                     ),
                     InlineKeyboardButton(
-                        "🐬 Gʀᴏᴜᴘ ", url="https://t.me/Love_live_laughk"
+                        "🐬 Gʀᴏᴜᴘ ", url="https://t.me/about_brutu"
                     )
                 ],[ 
                     InlineKeyboardButton(
@@ -42,7 +42,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "😎 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/Shivamdemon")
+                        "😎 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/S_4_SAHIL_YADAV_Official")
                 ]
             ]
         )
