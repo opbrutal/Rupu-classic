@@ -5,5 +5,5 @@ from pyrogram.types import Chat, Message, User
 
 @USER.on_message(filters.text & filters.private & ~filters.me & ~filters.bot)
 async def pmPermit(client: USER, message: Message):
-  await USER.send_message(message.chat.id,"ʜɪ ᴛʜɪs ᴀᴄᴄᴏᴜɴᴛ ɪs ᴍᴀɴᴀɢɪɴɢ ʙʏ @shivamdemon ᴀɴᴅ ᴅᴏɴᴛ ᴅɪsʙᴜʀsᴇ ᴏᴡɴᴇʀ..❣️")
+  await USER.send_message(message.chat.id,"ʜɪ ᴛʜɪs ᴀᴄᴄᴏᴜɴᴛ ɪs ᴍᴀɴᴀɢɪɴɢ ʙʏ @b_4_brutal_official ᴀɴᴅ ᴅᴏɴᴛ ᴅɪsʙᴜʀsᴇ ᴏᴡɴᴇʀ..❣️")
   return                        
