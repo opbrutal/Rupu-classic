@@ -3,7 +3,7 @@
 
 ### 𓆩乃𝗥𝗨𝗧𝗔𝗟𓆪╉⛦⃕͜𝗠𝗨𝗦𝗜𝗖 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/Modern_elements"><img src="https://telegra.ph/file/1f95bc0568721b1205873.jpg  " width="300"></a></p>
+<p align="center"><a href="https://t.me/B_4_Brutal_official"><img src="https://telegra.ph/file/1f95bc0568721b1205873.jpg" width="300"></a></p>
 
 
 
