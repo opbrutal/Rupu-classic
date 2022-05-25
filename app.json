@@ -1,8 +1,8 @@
 {
-  "name": "eSportMuscX",
+  "name": "bRutuuMusicX",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/HEXOROP/eSportMusicX",
+  "repository": "https://github.com/opbrutal/Rupu-classic   ",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
