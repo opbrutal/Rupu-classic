@@ -3,12 +3,12 @@
 
 ### 𓆩乃𝗥𝗨𝗧𝗔𝗟𓆪╉⛦⃕͜𝗠𝗨𝗦𝗜𝗖 ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/Modern_elements"><img src="https://te.legra.ph/file/29eef444ec34170c81037.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/Modern_elements"><img src="https://telegra.ph/file/1f95bc0568721b1205873.jpg  " width="300"></a></p>
 
 
 
 ### ꜱᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴜᴘᴅᴀᴛᴇꜱ🎑
-<a href="https://t.me/about_ajeet"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
+<a href="https://t.me/about_brutu"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram">
 
 ### ᴄᴏᴍᴍᴀɴᴅs 🛠
 #### ғᴏʀ ᴀʟʟ ᴍᴇᴍʙᴇʀs ɪɴ ɢʀᴏᴜᴘ
