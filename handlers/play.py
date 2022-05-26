@@ -423,14 +423,14 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="❣️ Oᴡɴᴇʀ", url=f"https://t.me/itz_rupu"
+                            text="❣️ Oᴡɴᴇʀ'King", url=f"https://t.me/b_4_brutal_official"
                         ),
-                        InlineKeyboardButton(
-                            text="Gᴇᴛ ᴍᴜsɪᴄ🎵", url=f"{durl}"
-                        ),
+                        
+                 
+                      
                     ],[
                         InlineKeyboardButton(
-                            text="✌️ Gʀᴏᴜᴘ", url=f"https://t.me/amazingnights"
+                            text="✌️ Owner'Queen", url=f"https://t.me/attitude_girl_niki"
                         ),
                     ]
                 ]
