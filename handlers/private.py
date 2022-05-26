@@ -12,7 +12,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hᴇʏ ɪᴛs {bn}** \n
 **I ᴀᴍ ʟᴀᴢʏ Aʙᴏᴜᴛ ᴛʏᴘɪɴɢ sᴏᴍᴇᴛʜɪɴɢ ɴᴇᴡ..ɪᴛᴢ ᴀ ʙᴏᴛ ᴍᴀᴅᴇ ғᴏʀ ᴘʟᴀʏ ᴍᴜsɪᴄ ɪɴ Vᴄ.😈❣️
-Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ : [B•4•Brutal](https://t.me/b_4_brutal_official)**.
+Dᴇᴠᴇʟᴏᴘᴇᴅ Bʏ : [B•4•Brutal](https://t.me/Gangster_Brutu)**.
         """,
         reply_markup=InlineKeyboardMarkup(
             [
@@ -42,7 +42,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "😎 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/S_4_SAHIL_YADAV_Official")
+                        "😎 ᴜᴘᴅᴀᴛᴇs", url="https://t.me/b_4_brutal_Official")
                 ]
             ]
         )
