@@ -32,3 +32,8 @@
 ### Deploy To Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/opbrutal/Rupu-classic)
+
+
+## ᴅᴇᴘʟᴏʏ ʀᴀɪʟᴡᴀʏ ꜱᴇʀᴠᴇʀ </h4>
+
+[![Deploy+To+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/opbrutal/Rupu-classic&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT)
