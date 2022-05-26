@@ -163,7 +163,7 @@ async def generate_cover(requested_by, title, views, duration, thumbnail):
 
         (190, 670),
 
-        f"Powered By: S4Shiv(@Shivamdemon)",
+        f"Powered By: BRUTAL(b_4_brutal_official)",
 
         (0,0,0),
 
@@ -327,9 +327,10 @@ async def play(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        text="❣️ Oᴡɴᴇʀ", url=f"https://t.me/itz_rupu"
+                        text="❣️ Oᴡɴᴇʀ", url=f"https://t.me/b_4_brutal_official"
                     ),
-                    InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ🎵", url=f"https://t.me/shivamdemon"),
+                    InlineKeyboardButton(
+                       text="BHAI", url=f"https://t.me/XD_LIF"),
                 ]
             ]
         )
@@ -396,14 +397,14 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="❣️ Oᴡɴᴇʀ", url=f"https://t.me/itz_rupu"
+                            text="❣️ Oᴡɴᴇʀ", url=f"https://t.me/b_4_brutal_official"
                         ),
+                        
+                     
+                        
+                     ],[
                         InlineKeyboardButton(
-                            text="Gᴇᴛ ᴍᴜsɪᴄ🎵", url=f"{durl}"
-                        ),
-                    ],[
-                        InlineKeyboardButton(
-                            text="✌️ Gʀᴏᴜᴘ", url=f"https://t.me/amazingnights"
+                            text="✌️ BHAI", url=f"https://t.me/XD_LIF"
                         ),
                     ]
                 ]
@@ -423,14 +424,14 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="❣️ Oᴡɴᴇʀ'King", url=f"https://t.me/b_4_brutal_official"
+                            text="❣️ Oᴡɴᴇʀ", url=f"https://t.me/b_4_brutal_official"
                         ),
                         
                  
                       
                     ],[
                         InlineKeyboardButton(
-                            text="✌️ Owner'Queen", url=f"https://t.me/attitude_girl_niki"
+                            text="✌️ BHAI", url=f"https://t.me/xd_lif"
                         ),
                     ]
                 ]
@@ -520,14 +521,14 @@ async def play(_, message: Message):
                 [
                     [
                         InlineKeyboardButton(
-                            text="❣️ Oᴡɴᴇʀ", url=f"https://t.me/itz_rupu"
+                            text="❣️ Oᴡɴᴇʀ", url=f"https://t.me/b_4_brutal official"
                         ),
                         InlineKeyboardButton(
                             text=" Gᴇᴛ ᴍᴜsɪᴄ🎵", url=f"{durl}"
                         ),
                     ],[
                         InlineKeyboardButton(
-                            text="✌️ Gʀᴏᴜᴘ", url=f"https://t.me/amazingnights"
+                            text="✌️ BHAI", url=f"https://t.me/xd_lif"
                         ),
                     ]
                 ]
